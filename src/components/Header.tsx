@@ -52,7 +52,7 @@ const Header: React.FC = () => {
           >
             <div className="bg-primary p-2 rounded-lg">
               <img
-                src="/public/handyman-logo.gif"
+                src="/handyman-logo.gif"
                 alt="HandymanService Logo"
                 className="w-8 h-8"
                 style={{width: '50px', height: '50px'}}
